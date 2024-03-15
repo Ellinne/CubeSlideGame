@@ -31,4 +31,8 @@ public class Settings : MonoBehaviour
         if (tg3.isOn)
             PlayerPrefs.SetInt("FontSize", 60);
     }
+    public void NewFont()
+    {
+
+    }
 }
